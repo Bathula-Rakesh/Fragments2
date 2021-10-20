@@ -1,0 +1,4 @@
+rootProject.name = "Fragments2"
+include ':app'
+include ':myapplication11'
+include ':tablayoutproject'
